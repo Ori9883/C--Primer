@@ -139,14 +139,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="exercise\3.22.cpp" />
-    <ClCompile Include="exercise\3.23.cpp" />
-    <ClCompile Include="exercise\3.28.cpp" />
-    <ClCompile Include="exercise\3.36.cpp" />
+    <ClCompile Include="exercise\3\3.22.cpp" />
+    <ClCompile Include="exercise\3\3.23.cpp" />
+    <ClCompile Include="exercise\3\3.28.cpp" />
+    <ClCompile Include="exercise\3\3.36.cpp" />
+    <ClCompile Include="exercise\3\3.44.1.cpp" />
+    <ClCompile Include="exercise\3\3.44.2.cpp" />
+    <ClCompile Include="exercise\3\3.44.3.cpp" />
     <ClCompile Include="Iterator\iterator.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="exercise\3.36.h" />
+    <ClInclude Include="exercise\3\3.36.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
