@@ -146,7 +146,7 @@
     <ClCompile Include="exercise\3\3.44.1.cpp" />
     <ClCompile Include="exercise\3\3.44.2.cpp" />
     <ClCompile Include="exercise\3\3.44.3.cpp" />
-    <ClCompile Include="Iterator\iterator.cpp" />
+    <ClCompile Include="concept\Iterator\iterator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise\3\3.36.h" />
