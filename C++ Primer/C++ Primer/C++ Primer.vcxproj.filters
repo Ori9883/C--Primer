@@ -39,6 +39,9 @@
     <ClCompile Include="exercise\3\3.44.3.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="concept\Class\WhatClass.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise\3\3.36.h">
