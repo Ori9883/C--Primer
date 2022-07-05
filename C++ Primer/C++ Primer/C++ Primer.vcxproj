@@ -144,6 +144,7 @@
     <ClCompile Include="concept\Class\Singleton.cpp" />
     <ClCompile Include="concept\Class\VirtualF.cpp" />
     <ClCompile Include="concept\Class\WhatClass.cpp" />
+    <ClCompile Include="concept\DataType\string.cpp" />
     <ClCompile Include="concept\enumeration\Enumeration.cpp" />
     <ClCompile Include="exercise\3\3.22.cpp" />
     <ClCompile Include="exercise\3\3.23.cpp" />
