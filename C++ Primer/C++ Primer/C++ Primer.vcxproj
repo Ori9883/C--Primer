@@ -139,6 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="concept\Class\Constructor_Destructor.cpp" />
     <ClCompile Include="concept\Class\Singleton.cpp" />
     <ClCompile Include="concept\Class\WhatClass.cpp" />
     <ClCompile Include="concept\enumeration\Enumeration.cpp" />
