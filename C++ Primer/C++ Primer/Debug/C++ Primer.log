@@ -1,2 +1,5 @@
-﻿  Constructor_Destructor.cpp
+﻿  VirtualF.cpp
+F:\C++ practice\C++ Primer\C++ Primer\C++ Primer\concept\Class\VirtualF.cpp(16,18): warning C4584: 'B': base-class 'Printable' is already a base-class of 'A'
+F:\C++ practice\C++ Primer\C++ Primer\C++ Primer\concept\Class\VirtualF.cpp(5): message : see declaration of 'Printable'
+F:\C++ practice\C++ Primer\C++ Primer\C++ Primer\concept\Class\VirtualF.cpp(10): message : see declaration of 'A'
   C++ Primer.vcxproj -> F:\C++ practice\C++ Primer\C++ Primer\Debug\C++ Primer.exe
