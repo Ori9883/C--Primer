@@ -51,6 +51,9 @@
     <ClCompile Include="concept\Class\Constructor_Destructor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="concept\Class\Inherit.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise\3\3.36.h">
