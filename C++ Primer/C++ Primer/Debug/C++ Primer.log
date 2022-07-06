@@ -1,2 +1,7 @@
-﻿  string.cpp
+﻿  Singleton.cpp
+  string.cpp
+  Enumeration.cpp
+  Const_Mutable.cpp
+  3.22.cpp
+  正在生成代码...
   C++ Primer.vcxproj -> F:\C++ practice\C++ Primer\C++ Primer\Debug\C++ Primer.exe

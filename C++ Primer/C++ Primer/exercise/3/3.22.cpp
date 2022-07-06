@@ -1,8 +1,8 @@
-#include <iostream>
-#include <string>
-#include <vector>
-using namespace std;
-
+//#include <iostream>
+//#include <string>
+//#include <vector>
+//using namespace std;
+//
 //int main() {
 //	vector<string> text;
 //	string s = "my name is aaa";
