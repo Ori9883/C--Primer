@@ -152,6 +152,7 @@
     <ClCompile Include="concept\enumeration\Enumeration.cpp" />
     <ClCompile Include="concept\KeyWords\Const_Mutable.cpp" />
     <ClCompile Include="concept\Operator\OperatorOverloading.cpp" />
+    <ClCompile Include="concept\Pointer\SmartPointer.cpp" />
     <ClCompile Include="exercise\3\3.22.cpp" />
     <ClCompile Include="exercise\3\3.23.cpp" />
     <ClCompile Include="exercise\3\3.28.cpp" />
