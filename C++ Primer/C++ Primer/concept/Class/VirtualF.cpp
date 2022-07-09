@@ -19,7 +19,7 @@
 //public:
 //	B(const std::string& name) : myName(name){}
 //
-//	std::string GetName() override { return myName; }
+//	std::string GetName() { return myName; }
 //	std::string GetClassName() override { return "B interface"; }
 //};
 //
@@ -34,8 +34,11 @@
 //	B* b = new B("cloud");
 //	//std::cout << b->GetName() << std::endl;
 //
+//	A* aa = new B("actuallyB");
+//	std::cout << aa->GetName() << std::endl;
 //
-//	Print(a);
-//	Print(b);
+//	//Print(a);
+//	//Print(b);
+//	system("pause");
 //	return 0;
 //}
