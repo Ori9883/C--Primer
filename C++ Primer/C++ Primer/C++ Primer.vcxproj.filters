@@ -72,6 +72,9 @@
     <ClCompile Include="concept\Class\CopyConstructor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Interview_test\script.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise\3\3.36.h">
